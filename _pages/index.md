@@ -6,7 +6,8 @@ permalink: /
 ---
 
 # William Skrypek
-Hello! I am William Skrypek, or Liam for short, and I am a highschool student. I am currently
+Hello! I am William Skrypek, or Liam for short, and I am a highschool student in minnesota. Find out what I am working on currently in the below section:
+
 - [[Writing]]
 - [[Projects]]
 - [[Music]]
