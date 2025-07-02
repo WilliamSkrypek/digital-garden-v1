@@ -1,29 +1,14 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
-
 # William Skrypek
+Hello! I am William Skrypek, or Liam for short, and I am a highschool student. I am currently
+- [[Writing]]
+- [[Projects]]
+- [[Music]]
+- [[Work]]
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  What's up ellis! Take a look at <span style="font-weight: bold">[[The Enlightenment]]</span> to get started on your exploration.
-</p>
+## Colophon
 
-<strong>Recently updated notes</strong>
+This site is written and edited in Obsidian. The raw text files are automatically compiled into web pages using [Jekyll](https://jekyllrb.com/) and hosted with [Netlify](https://www.netlify.com/).
 
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+Initially this website was based on [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt, however it has undergone intense changes.
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+I thank Maxime Vaillancourt and Steph Ango greatly for their inspiration and material.
