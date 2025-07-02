@@ -1,5 +1,5 @@
 ---
-layout: pageMore actions
+layout: page
 title: Home
 id: home
 permalink: /
