@@ -3,7 +3,7 @@ title: Your first seed
 ---
 
 ### Welcome!
-This is your first *REAL* first note, - [[The Enlightenment.md]] print("hello world")
+This is your first *REAL* first note, - [[The Enlightenment]] print("hello world")
  
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
