@@ -1,3 +1,10 @@
+---
+layout: pageMore actions
+title: Home
+id: home
+permalink: /
+---
+
 # William Skrypek
 Hello! I am William Skrypek, or Liam for short, and I am a highschool student. I am currently
 - [[Writing]]
