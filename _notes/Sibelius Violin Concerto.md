@@ -1,3 +1,6 @@
+---
+---
+
 **Violin Concerto No. 1 in D minor - Op. 47**
 
 [[Jean Sibelius]] has written a myriad of works, including symphonies and essays. However, the Sibelius Violin Concerto is one of Sibelius’s most famous works, not only for its legacy, but for its profound emotion and tangible effort that it gives the listener. The violin is and has been the most famous and popular solo instrument for hundreds of years. Consequently, most composers write many concertos for the violin. However, Sibelius only ever composed one, his Op. 46 in D Minor, and decided that he was finished. Sibelius must have known that his first and last violin concerto would become one of the most famous and infamously difficult pieces of violin repertoire of all time. 
