@@ -1,3 +1,6 @@
+---
+---
+
 
 ### The Enlightenment
 A movement of forward thinkers that had a goal to improve our lives. Took place during the 17th and 18th centuries in Europe especially France. 
