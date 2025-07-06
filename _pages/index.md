@@ -8,11 +8,11 @@ permalink: /
 # William Skrypek
 Hello! I am William Skrypek, or Liam for short, and I am a high school student in Minnesota. I have many vocations; find out what I am working on currently in the below section:
 
+Currently I am out of office in a three week camp on Temagami Island
 - [[Writing]]
 - [[Projects]]
 - [[Music]]
 - [[Work]]
-- [[Chloe Angerman]]
 
 ## Colophon
 
