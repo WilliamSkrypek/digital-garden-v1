@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about
 ---
+
+
 ## Colophon
-The creation of this site is very complex, yet likely more minimal than any other websites you will find. I have always admired the beauty in simplicity, however nowadays that is getting harder and harder to come by. To achieve this look I had to learn a lot of things.
+The creation of this site is very complex, yet likely more aesthetically minimal than many other websites you will find today. To achieve this look I had to learn a lot of things.
 
 This site is written and edited in Obsidian. Then, with the help of Ruby and Ruby Gems, the raw text files are automatically compiled into web pages using [Jekyll](https://jekyllrb.com/) and hosted inside of a Github repository. [Netlify](https://www.netlify.com/) then puts the pages into website form, under my domain.
 
