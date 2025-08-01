@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Contact Me
 ---
 
 ### Violin
