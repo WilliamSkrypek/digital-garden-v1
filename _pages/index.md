@@ -11,6 +11,10 @@ permalink: /
 ---
 # William Skrypek
 
-Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I have many personal and professional endeavors. I love to learn and explore new topics, I find out what I am working on currently in the below section:
+Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I love learning and exploring new topics, and following old ones wherever they lead. I will do light biographical work here, but most of the things I publish stem from projects, notes, experiments, and ongoing personal and academic endeavors. 
 
->  [[Writing]] - [[Projects]] - [[Music]] - [[participation]] - [[Projects]]
+*Currently the content below is proof of concept and extremely limited. The bulk of updates are to come*.
+
+> <div style="text-align: center;">
+   [[Writing]] - [[Projects]] - [[Music]] - [[Participation]] - [[Projects]] </div>
+
