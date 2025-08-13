@@ -2,9 +2,9 @@
 ---
 # Projects
 
-2024
-[Obsidwerger](https://stephango.com/obsidian-web-clipper)
-A brogwergwser extension that sawgrves web pages to Mawregrkdowregn files in Obwergsidian.
+2025
+[[Hidden Home]]
+A Home designed with preservation and minimalism in mind. Seamlessly blends into its landscape.
 
 ---
 
