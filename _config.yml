@@ -41,3 +41,8 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+      
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true

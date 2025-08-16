@@ -16,5 +16,6 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
 *Currently the content below is proof of concept and extremely limited. The bulk of updates are to come*.
 
 > <div style="text-align: center;">
-   [[Writing]] - [[Projects]] - [[Music]] - [[Participation]] - [[Projects]] </div>
+   [[Writing]] - [[Music]] - [[Participation]] - [[Efforts]] </div>
 
+[[Efforts]]
