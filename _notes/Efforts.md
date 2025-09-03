@@ -27,23 +27,37 @@ Washburn Highschool's track and field team. Last season I ran for the Varsity Hu
 A national club, where at the Washburn Highschool level, games, trivia, events, and projects are done all to learn more about international diplomacy, and to prepare for conferences, in which you represent a country and a policy goal. I participated in the fall 2024 conference in which I represented India.
 
 ---
-
-<!--
----
-2023 - Present
-
-**Piano / Organ**
+2023 - Present  
+**Piano / Organ**  
 
 
 ---
-
-2014 - Present
-
-**Violin**
+2014 - Present  
+**Violin**  
 
 
 ---
---->
+2024 - Present  
+**Site Council**  
+
+
+---
+2023 - Present  
+**Kowalski's Market**  
+
+
+---
+2014 - Present  
+**Obsidian Personal Knowledge Base**  
+
+
+---
+2014 - Present  
+**WilliamSkrypek.com**  
+
+
+---
+
 
 ## Coming Soon
 **Programs / Communities**  
