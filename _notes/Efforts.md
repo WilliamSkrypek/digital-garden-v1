@@ -24,12 +24,12 @@ Washburn Highschool's track and field team. Last season I ran for the Varsity Hu
 ---
 2024  
 **Model United Nations**  
-A national club, where at the Washburn Highschool level, games, trivia, events, and projects are done all to learn more about international diplomacy, and to prepare for conferences, in which you represent a country and a policy goal. I participated in the fall 2024 conference in which I represented India.
+A national club, where at the Washburn Highschool level, games, trivia, events, and projects are done all to explore international diplomacy, and to prepare for conferences, in which you represent a country and a policy goal. I participated in the fall 2024 conference in which I represented India.
 
 ---
 2023 - Present  
 **Piano / Organ**  
-
+I have been studing piano and organ since 2024 with dr roberta kaigin
 
 ---
 2014 - Present  
@@ -47,7 +47,7 @@ A national club, where at the Washburn Highschool level, games, trivia, events, 
 
 
 ---
-2014 - Present  
+2022 - Present  
 **Obsidian Personal Knowledge Base**  
 
 
