@@ -4,8 +4,7 @@ title: Efforts
 permalink: /efforts/
 ---
 # Efforts
-Below is a list of things I am currently working on or involving myself in. There are Three categories **Programs / Communities,** **Professional, &** **Personal.**
-
+Below is a list of things I am currently working on or involved in.
 ## Programs / Communities
 2021 - Present  
 **Minnesota Youth Symphonies**  
@@ -28,7 +27,7 @@ A national club, where at the Washburn Highschool level, games, trivia, events, 
 
 ---
 2023 - Present  
-**Piano / Organ**  
+**Piano**
 I have been studing piano and organ since 2024 with dr roberta kaigin
 
 ---
@@ -43,7 +42,7 @@ I have been studing piano and organ since 2024 with dr roberta kaigin
 
 ---
 2023 - Present  
-**Kowalski's Market**  
+**Kowalski's Markets**  
 
 
 ---
@@ -52,20 +51,15 @@ I have been studing piano and organ since 2024 with dr roberta kaigin
 
 
 ---
-2014 - Present  
+2025 - Present  
 **WilliamSkrypek.com**  
+
+
+---
+2025 - Present  
+**Organ**
 
 
 ---
 
 
-## Coming Soon
-**Programs / Communities**  
-Violin  
-Site Council  
-**Professional**  
-Kowalski's Market  
-**Personal**  
-Obsidian Personal Knowledge Base  
-williamskrypek.com  
-Caffeine research project  

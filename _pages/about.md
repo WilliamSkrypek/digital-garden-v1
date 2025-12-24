@@ -6,11 +6,10 @@ permalink: /about
 
 
 ## Colophon
-The creation of this site is very complex, yet likely more aesthetically minimal than many other websites you will find today. To achieve this look I had to learn a lot of things.
 
-This site is written and edited in Obsidian. Then, with the help of Ruby and Ruby Gems, the raw text files are automatically compiled into web pages using [Jekyll](https://jekyllrb.com/) and hosted inside of a Github repository. [Netlify](https://www.netlify.com/) then puts the pages into website form, under my domain.
+This site is written and edited in Obsidian. The raw text files are automatically converted to html using [Jekyll](https://jekyllrb.com/) and hosted inside of a Github repository. [Netlify](https://www.netlify.com/) then compiles them into web pages, under my domain.
 
-Initially this website was based on [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt, however it has undergone intense changes.
+Initially this website was based on [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt, however it has undergone heavy changes.
 
-I thank Maxime Vaillancourt and Steph Ango greatly for their inspiration and material.
+I thank Maxime Vaillancourt and Steph Ango greatly for their inspiration and content.
 
