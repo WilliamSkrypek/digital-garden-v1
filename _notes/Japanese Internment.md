@@ -13,9 +13,15 @@ The aftermath of Japanese Internment following the attack on Pearl Harbor and it
 
 The actions taken by these two Japanese American individuals and the others affected the lives of hundreds of thousands of incarcerated American citizens. Because Endo was the daughter of two immigrants, born in the country, and had never been to Japan, her lawyer, James C Purcell, thought that she would make the most compelling case. And maybe that was true; however, it’s not just about how Endo was received by the government and the courts. It’s about how hard she worked in America, and for America, before and after her case.
 
-Works Cited
+‎
+‎
+‎
+‎
+‎
 
-The. “Japanese American Internment | Definition, Camps, Locations, Conditions, & Facts.” Encyclopedia Britannica, 9 May 2014, www.britannica.com/event/Japanese-American-internment. Accessed 22 Apr. 2025.
+##### Bibliography
+
+The. “Japanese American Internment - Definition, Camps, Locations, Conditions, & Facts.” Encyclopedia Britannica, 9 May 2014, www.britannica.com/event/Japanese-American-internment. Accessed 22 Apr. 2025.
 
 “Japanese-American Incarceration during World War II.” National Archives, 15 Aug. 2016, www.archives.gov/education/lessons/japanese-relocation. Accessed 24 Apr. 2025.
 
@@ -29,8 +35,7 @@ Grigsby, Lynda Lin. “She Won a Case Challenging Imprisonment of Japanese Ameri
 
 Varner, Natasha. “Mitsuye Endo: The Woman behind the Landmark Supreme Court Case - Densho: Japanese American Incarceration and Japanese Internment.” Densho: Japanese American Incarceration and Japanese Internment, 24 Mar. 2016, densho.org/catalyst/mitsuye-endo/. Accessed 30 Apr. 2025.
 
-HISTORY.com Editors. “Japanese Internment Camps: WWII, Life & Conditions | HISTORY.” HISTORY, 29 Oct. 2009, www.history.com/articles/japanese-american-relocation. Accessed 30 April 2025.
+HISTORY.com Editors. “Japanese Internment Camps: WWII, Life & Conditions - HISTORY.” HISTORY, 29 Oct. 2009, www.history.com/articles/japanese-american-relocation. Accessed 30 April 2025.
 
 “Fred T. Korematsu (U.S. National Park Service).” Nps.gov, 2015, www.nps.gov/people/fred-t-korematsu.htm. Accessed 30 April 2025.
 
-**

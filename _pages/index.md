@@ -31,6 +31,7 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
         <li>2025 · 7 &nbsp; [[Sibelius Violin Concerto]]</li>
         <li>2025 · 6 &nbsp; [[The Enlightenment]]</li>
         <li>2025 · 9 &nbsp; [[Progression of Infographic Media]]</li>
+        <li>2025 · 4 &nbsp; [[Japanese Internment]]</li>
         <!-- keep adding -->
       </ul>
     </section>
@@ -61,3 +62,6 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
 ‎
 ><div style="text-align: center;">
    [[Writing]] - [[Music]] - [[Participation]] - [[Efforts]] </div>
+
+
+

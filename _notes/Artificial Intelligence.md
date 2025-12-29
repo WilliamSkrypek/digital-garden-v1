@@ -1,14 +1,7 @@
 ---
-layout: page
-title: Artificial Intelligence
 ---
 
-*Dec. 28, 2025*
-
-
-‎‎
-# Artificial Intelligence
----
+**Artificial Intelligence**
 I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. He told me it was an "artificial intelligence" called Chat GPT, and it had just been released to public beta testers. Then, right there, he asked, demanded, that it create me a story with myself as the main charter. And it did. With remarkable speed, it created a real story. It, now lost to time, with a beginning, a middle, and an end; a conflict, and a setting. 
 
 Going through my mind in that moment could only be described as amazement, astonishment, and excitement. I wanted to get my hands on it, test its capabilities and limits. See what other remarkable things it could do.
@@ -42,11 +35,13 @@ If you find the answer of any of these questions to be yes, the use of AI is not
 If you do, please invest some time into learning how to craft effective and efficient prompts for AI. I recommend MIT's guide below.
 
 [Effective Prompts](https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/)
-‎‎‎
-‎‎‎
-‎‎‎
-‎‎‎
-‎‎‎
+
+‎
+‎
+‎
+‎
+‎
+
 ##### Bibliography
 “Effective Prompts for AI: The Essentials - MIT Sloan Teaching & Learning Technologies.” _MIT Sloan Teaching & Learning Technologies_, 30 May 2025, mitsloanedtech.mit.edu/ai/basics/effective-prompts/. Accessed 28 Dec. 2025.
 
