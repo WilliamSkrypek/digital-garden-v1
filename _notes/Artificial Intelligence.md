@@ -6,7 +6,7 @@ I remember when my uncle, Steve, came to me in late 2022 with his telephone and 
 
 Going through my mind in that moment could only be described as amazement, astonishment, and excitement. I wanted to get my hands on it, test its capabilities and limits. See what other remarkable things it could do.
 
-Today, a little over three years later, this technology is ubiquitous. Across schools, cooperations and homes, AI is in the hands of so many people. 
+Today, a little over three years later, this technology is ubiquitous. Across schools, corporations and homes, AI is in the hands of so many people. 
 
 But now, the excitement and astonishment has faded, and simmering issues begin to boil. Academic integrity, critical thinking, creativity, and our climate are all on the line as we turn ourselves into astronauts as our homework is done for us. Artificial Intelligence is arguably one of the most quickly developing technologies in human history, which makes it incredibly dangerous. 
 
