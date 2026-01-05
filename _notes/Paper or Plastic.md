@@ -25,5 +25,5 @@ What are some sortys id like to include?
 - time that a lady though i was smashing her peras
 	- my cast
 - time that a man i ran into at the opera was one of my Sunday regulars 
-- all of the people that i have meet and think i recoginse but i accuallty do just form there
+- all of the people that i have meet and think i recognize but i accuallty do just form there
 - how somtimes it is akuwasrd when i am suppoes to know some one but i dont remembert them 
