@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 ## William Skrypek
-Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I love learning and exploring new topics, and following old ones wherever they lead. I will do light biographical work here, but most of the things I publish stem from projects, notes, experiments, and ongoing personal and academic endeavors. 
+Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I love learning and exploring new topics, and following old ones wherever they lead. I will do light biographical work here, but most of the things I publish stem from projects, notes, experiments, and ongoing personal and academic endeavors.
 
 ---
 <body>
@@ -18,7 +18,7 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
       <p>
           <strong>[[Artificial Intelligence]]</strong>
           <span class="muted"> — December 28, 2025 · 3 minute read</span><br />
-        <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. Keep reading →</span>
+        <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. {Keep reading} →</span>
       </p>
     </section>
 
