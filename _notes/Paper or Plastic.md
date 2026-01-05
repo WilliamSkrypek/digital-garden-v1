@@ -4,7 +4,7 @@
 paper or plastic is a new ;book that i am writing about the lessons /sn anecdotes ive learned and recieved and experinced firtst hand beign a bager a bag boy at a local grocey store of kowalskis . 
 
 Lessons/likes
-- everyone i seee from the communtity 
+- everyone i see from the community 
 - hwaht it has taught me a bout perserversance and about doung things that nyou do not wantot to do
 - how to make friends in unsupectiiong places
 	- how i can form connectioosn with nearly everyone 
@@ -24,6 +24,6 @@ Lessons/likes
 What are some sortys id like to include?
 - time that a lady though i was smashing her peras
 	- my cast
-- time that a man i ran into at the opera was one of my sunday regualrs 
+- time that a man i ran into at the opera was one of my Sunday regulars 
 - all of the people that i have meet and think i recoginse but i accuallty do just form there
 - how somtimes it is akuwasrd when i am suppoes to know some one but i dont remembert them 
