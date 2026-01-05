@@ -18,7 +18,7 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
       <p>
           <strong>[[Artificial Intelligence]]</strong>
           <span class="muted"> — December 28, 2025 · 3 minute read</span><br />
-        <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. {Keep reading} →</span>
+        <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. Keep reading →</span>
       </p>
     </section>
 

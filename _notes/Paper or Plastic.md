@@ -1,3 +1,6 @@
+---
+---
+
 paper or plastic is a new ;book that i am writing about the lessons /sn anecdotes ive learned and recieved and experinced firtst hand beign a bager a bag boy at a local grocey store of kowalskis . 
 
 Lessons/likes
