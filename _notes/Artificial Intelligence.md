@@ -30,7 +30,7 @@ There are many AI use frameworks for specific industries and cases, however belo
 > 
 
 
-If you find the answer of any of these questions to be yes, the use of AI is not recommended. However, if you can confidently answer no to the complete framework above, AI may be a valuable tool in your case. 
+If you find the answer of any of these questions to be yes, the use of AI is not recommended. However, if you can confidently answer no to the complete framework above, AI may be a valuable tool for your case. 
 
 If you do, please invest some time into learning how to craft effective and efficient prompts for AI. I recommend MIT's guide below.
 
