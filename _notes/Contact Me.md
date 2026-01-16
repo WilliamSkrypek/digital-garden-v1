@@ -10,7 +10,7 @@ If you need to reach me for any reason, please feel free to direct your requests
 - *Instagram* - [@WilliamSkrypek](https://www.instagram.com/williamskrypek/)
 
 ### Office Phone
-- *Call* - (612) - 216 - 1812
+- *Call* - (612)216-1812
 
 ### Email
 - *Home Email* - wskr2801@gmail.com
