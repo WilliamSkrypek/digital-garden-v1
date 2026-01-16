@@ -9,8 +9,8 @@ If you need to reach me for any reason, please feel free to direct your requests
 - *GitHub* - [@WilliamSkrypek](https://github.com/WilliamSkrypek)
 - *Instagram* - [@WilliamSkrypek](https://www.instagram.com/williamskrypek/)
 
-### Google Voice
-- *Call or Text* - (612) - 314 - 3483
+### Office Phone
+- *Call* - (612) - 216 - 1812
 
 ### Email
 - *Home Email* - wskr2801@gmail.com
