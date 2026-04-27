@@ -3,7 +3,7 @@ layout: default
 title: Contact Me
 ---
 
-### Violin
+### [[Violin]]
 private lessons
 MYS
 gtcys

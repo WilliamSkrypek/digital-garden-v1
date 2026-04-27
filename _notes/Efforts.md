@@ -18,7 +18,7 @@ A school-year orchestra that meets on Saturday mornings at Macalester College to
 Another school-year orchestra that meets weekly on Tuesday nights at Westminster Presbyterian Church, to rehearse symphonies and other orchestral music, for many seasonal and charity concerts. I am currently a member of the Philharmonic Orchestra under the direction of Mark Russell Smith.
 
 ---
-2025   
+2025, 2026
 **Washburn Track & Field**  
 Washburn Highschool's track and field team. Last season I ran for the Varsity Hurdles team, competing in the 110 meter hurdles and the 300 meter hurdles races.
 
@@ -60,9 +60,17 @@ I have been a member of the student council since the beginning of my 10th grade
 ---
 2025 - Present  
 **AI Council**
-A small group of Washburn seniors and myself working to inform and educate, along with establishing regulations, regarding AI and its uses and impact. We meet bi-weekly on Thursday mornings with Dr. Palmer.
+A small group of Washburn seniors, faculty, and myself, working to inform and educate, along with establishing regulations, regarding AI and its uses and impact. We meet bi-weekly on Thursday mornings with Dr. Palmer.
 
 *I also currently serve as a liaison for The AI Council to The Washburn Site Council*
+
+---
+2026
+**Principal Selection Committee**
+A small group of Washburn staff who is responsible for conducting interviews to select Dr. Palmer's replacement.
+
+
+
 
 ---
 
