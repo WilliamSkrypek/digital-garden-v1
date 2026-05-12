@@ -2,12 +2,10 @@
 tags:
   - unfinished
 ---
-
-
 ### The Enlightenment
 A movement of forward thinkers that had a goal to improve our lives. Took place during the 17th and 18th centuries in Europe especially France. 
 
-Previously, for generations, as a society we had been following the traditions and the rules that were giving our by our parents, learning things from our relatives. This could not, and did not, lead to innovations or improvement in our lives until the Enlightenment. Forward thinkers such as John Locke, Jean-Jacques Rousseau, Voltaire, and Tomas Hobbes, and Montesquieu, devoted their work to these ideas based on the Ancient Greeks.
+Before The Enlightenment, society had been following the traditions and the rules that were given our by our parents, learning things from our relatives. This could not, and did not, lead to innovations or improvement in our lives until the Enlightenment. Forward thinkers such as John Locke, Jean-Jacques Rousseau, Voltaire, and Tomas Hobbes, and Montesquieu, devoted their work to these ideas based on the Ancient Greeks.
 
 The idea that humans could discover and reason with truths in the world and use skepticism when reciving information or making decisions was unheard of at the time. 
 - the separation of church from the state 

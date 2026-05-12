@@ -16,6 +16,10 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
       <h3 id="latest">Latest</h3>
       
       <p>
+          <strong>[[Letter to a Don|To a Mr. Lemon]]</strong>
+          <span class="muted"> — January 23, 2026 · 4 minute read</span><br />
+        <span class="muted">I applaud you for coming out here to our targeted city during this agonizingly difficult time to shed some light on this situation. Keep reading →</span>
+      </p>
           <strong>[[Artificial Intelligence]]</strong>
           <span class="muted"> — December 28, 2025 · 3 minute read</span><br />
         <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. Keep reading →</span>
