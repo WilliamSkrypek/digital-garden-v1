@@ -19,7 +19,6 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
           <strong>[[To a Mr. Don Lemon]]</strong>
           <span class="muted"> — January 23, 2026 · 4 minute read</span><br />
         <span class="muted">I applaud you for coming out here to our targeted city during this agonizingly difficult time to shed some light on this situation. Keep reading →</span>
-      </p>
           <strong>[[Artificial Intelligence]]</strong>
           <span class="muted"> — December 28, 2025 · 3 minute read</span><br />
         <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. Keep reading →</span>
@@ -31,6 +30,7 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
     <section aria-labelledby="writing">
       <h3 id="writing">Writing</h3>
       <ul>
+        <li>2026 · 1 &nbsp; [[To a Mr. Don Lemon]]</li>
         <li>2025 · 12 &nbsp; [[Artificial Intelligence]]</li>
         <li>2025 · 7 &nbsp; [[Sibelius Violin Concerto]]</li>
         <li>2025 · 6 &nbsp; [[The Enlightenment]]</li>
