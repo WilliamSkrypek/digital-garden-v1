@@ -30,7 +30,6 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
     <section aria-labelledby="writing">
       <h3 id="writing">Writing</h3>
       <ul>
-        <li>2026 · 1 &nbsp; [[To a Mr. Don Lemon]]</li>
         <li>2025 · 12 &nbsp; [[Artificial Intelligence]]</li>
         <li>2025 · 7 &nbsp; [[Sibelius Violin Concerto]]</li>
         <li>2025 · 6 &nbsp; [[The Enlightenment]]</li>
