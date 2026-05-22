@@ -4,6 +4,9 @@ title: Home
 id: home
 permalink: /
 ---
+
+<img src="/assets/Monogram.png" alt=monogram with overlapping letters W and S on a plain light background>
+
 ## William Skrypek
 Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I love learning and exploring new topics, and following old ones wherever they lead. I will do light biographical work here, but most of the things I publish stem from projects, notes, experiments, and ongoing personal and academic endeavors.
 
