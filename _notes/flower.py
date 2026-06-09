@@ -25,12 +25,12 @@ MARGIN = 1
 WINDOW_W = GRID_W * CELL_SIZE
 WINDOW_H = GRID_H * CELL_SIZE
 
-FPS = 60
+FPS = 30
 
 # Spread behavior
-SPREAD_ATTEMPTS_PER_TICK = 450     # more = faster fill after a click
-SPREAD_PROB = 0.22                # chance a given attempt succeeds
-MUTATION_CHANCE = 0.06            # chance a new flower mutates
+SPREAD_ATTEMPTS_PER_TICK = 99    # more = faster fill after a click
+SPREAD_PROB = 0.25                # chance a given attempt succeeds
+MUTATION_CHANCE = 0.05            # chance a new flower mutates
 MUTATION_STRENGTH = 60            # how far mutation can push RGB channels (0-255)
 DOMINANCE_WEIGHT = 2.2            # >1 makes majority colors more "sticky"
 

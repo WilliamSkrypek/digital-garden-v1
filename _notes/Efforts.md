@@ -69,9 +69,6 @@ A small group of Washburn seniors, faculty, and myself, working to inform and ed
 **Principal Selection Committee**
 A small group of Washburn staff who is responsible for conducting interviews to select Dr. Palmer's replacement.
 
-
-
-
 ---
 
 *Additionally*
