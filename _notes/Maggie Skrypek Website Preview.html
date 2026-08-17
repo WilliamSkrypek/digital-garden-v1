@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Maggie Skrypek, LICSW | Relationship, Couples & Trauma Therapy in Minneapolis</title>
+  <meta name="description" content="A beautiful promotional landing page for Maggie Skrypek, LICSW — relationship, couples, family systems, and trauma-informed psychotherapy in Minneapolis, Minnesota." />
+  <style>
+    :root {
+      --sage: #aeb99f;
+      --deep: #163f4c;
+      --teal: #517f8f;
+      --cream: #fbf7ef;
+      --clay: #b77a5b;
+      --ink: #172022;
+      --muted: #64706d;
+      --white: #ffffff;
+      --shadow: 0 24px 70px rgba(22, 63, 76, .18);
+      --radius: 28px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 10%, rgba(174, 185, 159, .45), transparent 32%),
+        radial-gradient(circle at 90% 0%, rgba(81, 127, 143, .25), transparent 30%),
+        linear-gradient(135deg, #fffaf2, #eef5f0 55%, #f8efe5);
+      overflow-x: hidden;
+    }
+
+    .noise {
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      opacity: .06;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+      z-index: 5;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(18px);
+      background: rgba(251, 247, 239, .72);
+      border-bottom: 1px solid rgba(22, 63, 76, .08);
+    }
+
+    .nav-inner {
+      width: min(1160px, calc(100% - 40px));
+      margin: auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 0;
+    }
+
+    .brand { display: flex; align-items: center; gap: 12px; font-weight: 800; color: var(--deep); }
+    .brand img { width: 42px; height: 34px; object-fit: contain; }
+    .nav-links { display: flex; gap: 10px; align-items: center; }
+    .nav-links a { color: var(--deep); text-decoration: none; font-size: 14px; padding: 10px 14px; border-radius: 999px; transition: .25s ease; }
+    .nav-links a:hover { background: rgba(81, 127, 143, .14); transform: translateY(-1px); }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      border: 0;
+      border-radius: 999px;
+      padding: 14px 22px;
+      font-weight: 800;
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform .22s ease, box-shadow .22s ease, background .22s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    .btn::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      transform: translateX(-120%) skewX(-18deg);
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,.35), transparent);
+      transition: transform .55s ease;
+    }
+    .btn:hover { transform: translateY(-3px); box-shadow: 0 16px 32px rgba(22,63,76,.18); }
+    .btn:hover::after { transform: translateX(120%) skewX(-18deg); }
+    .btn-primary { background: var(--deep); color: white; }
+    .btn-secondary { background: rgba(255,255,255,.72); color: var(--deep); border: 1px solid rgba(22,63,76,.1); }
+
+    header {
+      width: min(1160px, calc(100% - 40px));
+      margin: 56px auto 70px;
+      display: grid;
+      grid-template-columns: 1.05fr .95fr;
+      gap: 48px;
+      align-items: center;
+    }
+
+    .eyebrow { color: var(--teal); text-transform: uppercase; letter-spacing: .18em; font-weight: 900; font-size: 12px; }
+    h1 { font-size: clamp(46px, 8vw, 88px); line-height: .94; letter-spacing: -.06em; margin: 16px 0 22px; color: var(--deep); }
+    .lead { font-size: clamp(18px, 2vw, 22px); line-height: 1.6; color: #384845; margin-bottom: 28px; max-width: 650px; }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 14px; }
+
+    .hero-card {
+      position: relative;
+      border-radius: 42px;
+      background: rgba(255,255,255,.55);
+      border: 1px solid rgba(255,255,255,.72);
+      box-shadow: var(--shadow);
+      padding: 18px;
+      transform: rotate(1.4deg);
+      animation: float 7s ease-in-out infinite;
+    }
+    .hero-card img.portrait { width: 100%; display: block; border-radius: 32px; object-fit: cover; aspect-ratio: 1 / 1; }
+    .badge {
+      position: absolute;
+      left: -18px;
+      bottom: 28px;
+      background: rgba(251,247,239,.93);
+      border: 1px solid rgba(22,63,76,.1);
+      border-radius: 22px;
+      padding: 16px 18px;
+      box-shadow: 0 14px 32px rgba(22,63,76,.16);
+      max-width: 260px;
+      animation: slideIn .8s ease both .35s;
+    }
+    .badge strong { color: var(--deep); display: block; }
+    .badge span { color: var(--muted); font-size: 14px; }
+
+    section { width: min(1160px, calc(100% - 40px)); margin: 90px auto; }
+    .section-title { font-size: clamp(34px, 5vw, 58px); line-height: 1; letter-spacing: -.04em; color: var(--deep); margin: 0 0 16px; }
+    .section-copy { color: var(--muted); line-height: 1.7; font-size: 18px; max-width: 780px; }
+
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 32px; }
+    .card {
+      background: rgba(255,255,255,.62);
+      border: 1px solid rgba(22,63,76,.08);
+      border-radius: var(--radius);
+      padding: 28px;
+      box-shadow: 0 16px 42px rgba(22,63,76,.08);
+      transition: transform .24s ease, box-shadow .24s ease, background .24s ease;
+    }
+    .card:hover { transform: translateY(-8px); box-shadow: 0 28px 60px rgba(22,63,76,.15); background: rgba(255,255,255,.82); }
+    .icon { width: 48px; height: 48px; border-radius: 16px; display: grid; place-items: center; background: rgba(174,185,159,.32); color: var(--deep); font-size: 24px; margin-bottom: 16px; }
+    .card h3 { color: var(--deep); margin: 0 0 10px; font-size: 22px; }
+    .card p, .card li { color: var(--muted); line-height: 1.65; }
+    .card ul { padding-left: 18px; margin-bottom: 0; }
+
+    .feature {
+      display: grid;
+      grid-template-columns: .85fr 1.15fr;
+      gap: 28px;
+      align-items: stretch;
+      background: rgba(22,63,76,.94);
+      border-radius: 38px;
+      padding: 24px;
+      color: white;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .feature img { width: 100%; height: 100%; min-height: 340px; object-fit: contain; border-radius: 28px; background: white; padding: 42px; }
+    .feature-content { padding: 40px 32px; }
+    .feature-content h2 { font-size: clamp(34px, 5vw, 58px); line-height: 1; letter-spacing: -.04em; margin: 0 0 18px; }
+    .feature-content p { color: rgba(255,255,255,.78); line-height: 1.75; font-size: 18px; }
+    .pill-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+    .pill { border: 1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.1); color: white; padding: 10px 14px; border-radius: 999px; font-weight: 700; font-size: 14px; }
+
+    .process { counter-reset: step; display: grid; gap: 14px; margin-top: 30px; }
+    .step { display: grid; grid-template-columns: 70px 1fr; gap: 18px; align-items: start; padding: 22px; border-radius: 24px; background: rgba(255,255,255,.58); border: 1px solid rgba(22,63,76,.08); }
+    .step::before { counter-increment: step; content: counter(step); width: 50px; height: 50px; border-radius: 16px; display: grid; place-items: center; background: var(--sage); color: var(--deep); font-weight: 900; font-size: 20px; }
+    .step h3 { margin: 0 0 6px; color: var(--deep); }
+    .step p { margin: 0; color: var(--muted); line-height: 1.65; }
+
+    .cta {
+      text-align: center;
+      padding: 70px 26px;
+      border-radius: 42px;
+      background: linear-gradient(135deg, rgba(174,185,159,.82), rgba(81,127,143,.82)), url('https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1600&q=80') center/cover;
+      background-blend-mode: soft-light;
+      box-shadow: var(--shadow);
+    }
+    .cta h2 { color: var(--deep); font-size: clamp(38px, 6vw, 68px); line-height: .98; letter-spacing: -.05em; margin: 0 0 18px; }
+    .cta p { max-width: 720px; margin: 0 auto 28px; color: #243331; font-size: 18px; line-height: 1.7; }
+
+    footer { width: min(1160px, calc(100% - 40px)); margin: 50px auto; color: var(--muted); font-size: 14px; line-height: 1.6; }
+    footer a { color: var(--deep); }
+
+    .reveal { opacity: 0; transform: translateY(22px); transition: opacity .7s ease, transform .7s ease; }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+
+    @keyframes float { 0%,100% { transform: translateY(0) rotate(1.4deg); } 50% { transform: translateY(-16px) rotate(-.6deg); } }
+    @keyframes slideIn { from { opacity: 0; transform: translate(-12px, 12px); } to { opacity: 1; transform: translate(0,0); } }
+
+    @media (max-width: 860px) {
+      header, .feature { grid-template-columns: 1fr; }
+      .grid { grid-template-columns: 1fr; }
+      .nav-links a:not(.btn) { display: none; }
+      .hero-card { transform: none; }
+      .badge { position: static; margin-top: 14px; max-width: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+  <nav>
+    <div class="nav-inner">
+      <a class="brand" href="#top" aria-label="LoveWell home">
+        <img src="https://www.maggieskrypek.com/client-portal-api/practice-website-uploads/515824" alt="LoveWell logo" />
+        <span>LoveWell Therapy</span>
+      </a>
+      <div class="nav-links">
+        <a href="#specialties">Specialties</a>
+        <a href="#approach">Approach</a>
+        <a href="#start">Start</a>
+        <a class="btn btn-primary" href="https://www.maggieskrypek.com/" target="_blank" rel="noopener">Contact Maggie</a>
+      </div>
+    </div>
+  </nav>
+
+  <header id="top">
+    <div class="reveal">
+      <div class="eyebrow">Minneapolis psychotherapy • LICSW</div>
+      <h1>Therapy for healing in relationship.</h1>
+      <p class="lead">Maggie Skrypek, LICSW offers warm, collaborative psychotherapy for adults, couples, and adult family systems — with special attention to relationship repair, parenting challenges, adoption-connected stories, and complex developmental trauma.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#start">Begin with a consultation</a>
+        <a class="btn btn-secondary" href="#specialties">Explore therapy areas</a>
+      </div>
+    </div>
+    <div class="hero-card reveal">
+      <img class="portrait" src="https://www.maggieskrypek.com/client-portal-api/practice-website-uploads/515843" alt="Portrait of Maggie Skrypek, LICSW" />
+      <div class="badge"><strong>Warm. Collaborative. Relational.</strong><span>In-person in Minneapolis and virtual sessions available.</span></div>
+    </div>
+  </header>
+
+  <section id="specialties" class="reveal">
+    <p class="eyebrow">Focus areas</p>
+    <h2 class="section-title">For couples, relationships, and trauma healing.</h2>
+    <p class="section-copy">This page highlights Maggie’s publicly listed clinical focus areas and turns them into a clear, client-centered therapy landing page.</p>
+    <div class="grid">
+      <article class="card"><div class="icon">♡</div><h3>Couples counseling</h3><p>Support for partners working through conflict, distance, trust strain, infidelity, parenting stress, premarital questions, and the patterns that keep repeating like a bad group chat.</p></article>
+      <article class="card"><div class="icon">↔</div><h3>Relationship therapy</h3><p>Relational, attachment-based support for adults and adult family systems, including parents and adult children seeking safer communication and renewed connection.</p></article>
+      <article class="card"><div class="icon">◌</div><h3>Trauma counseling</h3><p>Trauma-focused therapy for PTSD and complex developmental trauma, including EMDR-informed care and a steady space to reconnect with self, body, and story.</p></article>
+    </div>
+  </section>
+
+  <section id="approach" class="feature reveal">
+    <img src="https://www.maggieskrypek.com/client-portal-api/practice-website-uploads/515824" alt="LoveWell Psychotherapy and Parent Coaching logo" />
+    <div class="feature-content">
+      <p class="eyebrow">Connect • Integrate • Heal</p>
+      <h2>Evidence-informed care, human-sized.</h2>
+      <p>Maggie describes her approach as relational, attachment-based, psychodynamic, integrative, person-centered, strength-based, and trauma-focused. She is trained in Gottman Method couples therapy and EMDR from an EMDRIA-approved program.</p>
+      <div class="pill-row">
+        <span class="pill">Gottman Method</span>
+        <span class="pill">EMDR</span>
+        <span class="pill">Attachment-based</span>
+        <span class="pill">Family systems</span>
+        <span class="pill">Psychodynamic</span>
+        <span class="pill">Trauma-focused</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="reveal">
+    <p class="eyebrow">What clients may be seeking</p>
+    <h2 class="section-title">A grounded path from overwhelm to connection.</h2>
+    <div class="process">
+      <div class="step"><div><h3>Feel safe enough to begin</h3><p>Therapy can feel overwhelming at first. The first goal is comfort, clarity, and a relationship where you feel seen and supported.</p></div></div>
+      <div class="step"><div><h3>Name the patterns</h3><p>Together, clients explore the attachment, family, trauma, communication, and life-transition patterns shaping current pain.</p></div></div>
+      <div class="step"><div><h3>Practice new connection</h3><p>Through individual, couples, or adult family work, therapy becomes a place to build trust, repair conflict, and access internal resources.</p></div></div>
+    </div>
+  </section>
+
+  <section id="start" class="cta reveal">
+    <h2>Ready to find steadier ground?</h2>
+    <p>Maggie sees clients in person at 3005 James Ave South in Minneapolis and also offers virtual sessions. Her website lists telehealth, online payments, and that she is accepting new clients.</p>
+    <a class="btn btn-primary" href="https://www.maggieskrypek.com/" target="_blank" rel="noopener">Visit Maggie’s website</a>
+  </section>
+
+  <footer>
+    <strong>Research notes:</strong> Content was adapted from Maggie Skrypek’s public website and public directory snippets. This is a promotional concept page, not an official clinical guarantee or emergency resource. In an emergency, call 911 or local crisis services.
+  </footer>
+
+  <script>
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) entry.target.classList.add('visible');
+      });
+    }, { threshold: 0.14 });
+    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+    document.querySelectorAll('.btn').forEach(btn => {
+      btn.addEventListener('mousemove', e => {
+        const rect = btn.getBoundingClientRect();
+        btn.style.setProperty('--x', `${e.clientX - rect.left}px`);
+        btn.style.setProperty('--y', `${e.clientY - rect.top}px`);
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+A summer camp situated on the main island of the Temagami region in Ontario, Canada. Duration of 3 or 6 weeks. Focuses on tripping, or the act of camping out of a canoe.

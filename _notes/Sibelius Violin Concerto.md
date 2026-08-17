@@ -1,4 +1,6 @@
 ---
+tags:
+  - essay
 ---
 
 **Violin Concerto No. 1 in D minor - Op. 47**

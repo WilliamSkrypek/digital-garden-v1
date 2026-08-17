@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-
+>I am currently out of office in the islands of Northern Ontario (for summer camp). My arrival back in town is the 15th of August. Thank you! Lots of writing on my return. See more about [[Camp Wabikon (Disambiguation)|Camp Wabikon]]
 
 ## William Skrypek
 Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I love learning and exploring new topics, and following old ones wherever they lead. I will do light biographical work here, but most of the things I publish stem from projects, notes, experiments, and ongoing personal and academic endeavors.
@@ -27,10 +27,10 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
           <span class="muted"> — December 28, 2025 · 3 minute read</span><br />
         <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. Keep reading →</span>
       </p>
-    </section>
+    
 
 
-    <!-- Writing (simple list of posts) -->
+
     <section aria-labelledby="writing">
       <h3 id="writing">Writing</h3>
       <ul>
@@ -41,34 +41,13 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
         <li>2025 · 4 &nbsp; [[Japanese Internment]]</li>
         <!-- keep adding -->
       </ul>
-    </section>
-
-</body>
 
 
-<!--
-
-<img src="/assets/IMG_3076.jpeg" alt="Me" width="300" style="margin-top: 0;" />
-
-
----
-# William Skrypek
-
-Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I love learning and exploring new topics, and following old ones wherever they lead. I will do light biographical work here, but most of the things I publish stem from projects, notes, experiments, and ongoing personal and academic endeavors. 
-
-*Currently the content below is proof of concept and extremely limited. The bulk of updates are to come*.
-
-> <div style="text-align: center;">
-   [[Writing]] - [[Music]] - [[Participation]] - [[Efforts]] </div>
-
-###More
-->
-
--->
-### More
-‎
-><div style="text-align: center;">
+<section aria-labelledby="more">
+  <h3 id="more">Writing</h3>
+  <div style="text-align: center;">
    [[Writing]] - [[Music]] - [[Participation]] - [[Efforts]] </div>
 
 
 
+Disambiguation

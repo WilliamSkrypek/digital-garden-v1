@@ -1,4 +1,7 @@
 ---
+tags:
+  - essay
+  - stub
 ---
 
 Book
@@ -15,4 +18,4 @@ Not Including Above
 - Music
 
 Picture book
-Development 
+

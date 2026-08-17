@@ -1,6 +1,7 @@
 ---
 tags:
-  - unfinished
+  - stub
+  - essay
 ---
 ### The Enlightenment
 A movement of forward thinkers that had a goal to improve our lives. Took place during the 17th and 18th centuries in Europe especially France. 
@@ -19,8 +20,11 @@ People today have less of an enlightented thinking
 	- King Louis 300 years ago!!!!!!
 - government is becoming religious.
 
-Today, not over the last century or 50 years or even 25, but solely in the last decade we  as a society are regressing. America is the worst of all; the biggest democracy in the world is being treated by religious infiltration the very thing the the thinkers of the enlightenment sought to destroy, not only that but the heads of state are becoming more and more consumed with their power and greed less about the people as a whole. These very things l i i are what king Louis was giuotined for. The trope of    
+Today, not over the last century or 50 years or even 25, but solely in the last decade we  as a society are regressing. America is the worst of all; the biggest democracy in the world is being treated by religious infiltration the very thing the the thinkers of the enlightenment sought to destroy, not only that but the heads of state are becoming more and more consumed with their power and greed less about the people as a whole. These very things l i i are what king Louis was giuotined for. The trope of the times was to move away from all of this. Betovwwn didn’t rename his Bonaparte symphony for nothing
 
 It used to be incredibly frowned apron to lie and now people value lieing and view it as somthing that makes you more inttelegemt or witty/cool 
 - nana’s thoughts on the idea.on the idea.on the idea.
+
+
+
 
