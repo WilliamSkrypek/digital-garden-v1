@@ -4,8 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-
->I am currently out of office in the islands of Northern Ontario (for summer camp). My arrival back in town is the 15th of August. Thank you! Lots of writing on my return. See more about [[Camp Wabikon (Disambiguation)|Camp Wabikon]]
+Hi. 
 
 ## William Skrypek
 Hello! I am William Skrypek, or Liam for short, and I am a high school student in the Twin Cities. I love learning and exploring new topics, and following old ones wherever they lead. I will do light biographical work here, but most of the things I publish stem from projects, notes, experiments, and ongoing personal and academic endeavors.
@@ -34,6 +33,7 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
     <section aria-labelledby="writing">
       <h3 id="writing">Writing</h3>
       <ul>
+        <li>2026 · 1 &nbsp; [[To a Mr. Don Lemon]]</li>
         <li>2025 · 12 &nbsp; [[Artificial Intelligence]]</li>
         <li>2025 · 7 &nbsp; [[Sibelius Violin Concerto]]</li>
         <li>2025 · 6 &nbsp; [[The Enlightenment]]</li>
