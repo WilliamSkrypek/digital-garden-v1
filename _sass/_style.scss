@@ -71,6 +71,13 @@ hr {
   background: $color-border;
 }
 
+.link-bar {
+  border: 1px solid $color-border;
+  border-radius: $border-radius;
+  padding: 0.75em 1em;
+  margin: 1.5em 0;
+}
+
 h1,
 h2,
 h3,
