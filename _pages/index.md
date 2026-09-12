@@ -42,9 +42,9 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
 
 
 <section aria-labelledby="more">
-  <h3 id="more">Writing</h3>
+  <h3 id="more">Navigation</h3>
   <div class="link-bar" style="text-align: center;">
-   [[Writing]] - [[Music]] - [[Efforts]] - [[Now]] </div>
+   [[Writing]] - [[Music]] - [[Efforts]] - [[Now]] - [[Reading]] </div>
 
 
 

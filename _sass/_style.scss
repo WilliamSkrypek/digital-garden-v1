@@ -72,7 +72,7 @@ hr {
 }
 
 .link-bar {
-  border: 1px solid $color-border;
+  background: darken($color-background, 2%);
   border-radius: $border-radius;
   padding: 0.75em 1em;
   margin: 1.5em 0;
