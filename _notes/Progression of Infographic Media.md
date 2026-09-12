@@ -2,6 +2,9 @@
 tags:
   - essay
   - stub
+  - media
+  - technology
+  - communication
 ---
 
 Book

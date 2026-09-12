@@ -1,6 +1,10 @@
 ---
 tags:
   - essay
+  - classical-music
+  - violin
+  - music-history
+  - music-analysis
 ---
 
 **Violin Concerto No. 1 in D minor - Op. 47**

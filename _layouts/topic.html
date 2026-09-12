@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<content>
+  <h2>#{{ page.tag }}</h2>
+  <ul>
+    {% for doc in page.docs %}
+    <li><a class="internal-link" href="{{ doc.url }}">{{ doc.title }}</a></li>
+    {% endfor %}
+  </ul>
+</content>

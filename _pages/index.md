@@ -16,21 +16,25 @@ Hello! I am William Skrypek, or Liam for short, and I am a high school student i
       <h3 id="latest">Latest</h3>
       
       <p>
-          <strong>[[To a Mr. Don Lemon]]</strong>
-          <span class="muted"> — January 23, 2026 · 4 minute read</span><br />
-        <span class="muted">I applaud you for coming out here to our targeted city during this agonizingly difficult time to shed some light on this situation. Keep reading →</span>
-      <p>
-          <strong>[[Artificial Intelligence]]</strong>
-          <span class="muted"> — December 28, 2025 · 3 minute read</span><br />
-        <span class="muted">I remember when my uncle, Steve, came to me in late 2022 with his telephone and what looked like a messenger app open. Keep reading →</span>
+          <strong>[[The De-Enlightenment]]</strong>
+          <span class="muted"> — September 12, 2026 · 2 minute read</span><br />
+        <span class="muted">The Enlightenment was a movement of forward thinkers that had a goal to improve our lives. Keep reading →</span>
       </p>
     
 
+    <!-- Topics -->
+    <section aria-labelledby="topics">
+      <h3 id="topics">Topics</h3>
+      <p>
+      {% for tag in site.data.topics %}<a class="internal-link" href="{{ site.baseurl }}/topics/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+      </p>
+    </section>
 
 
     <section aria-labelledby="writing">
       <h3 id="writing">Writing</h3>
       <ul>
+	    <li>2026 · 9 &nbsp; [[The De-Enlightenment]]</li>
         <li>2026 · 1 &nbsp; [[To a Mr. Don Lemon]]</li>
         <li>2025 · 12 &nbsp; [[Artificial Intelligence]]</li>
         <li>2025 · 7 &nbsp; [[Sibelius Violin Concerto]]</li>
