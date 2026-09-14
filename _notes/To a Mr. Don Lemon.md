@@ -1,6 +1,7 @@
 ---
 tags:
   - unfinished
+title: To a Mr. Don Lemon
 ---
 Hello Don and Team!
 
@@ -12,11 +13,11 @@ My name is Liam and I am the "boy" that assisted in your check out at Kowalskiâ€
 
 My part in the community may be small here but it is valued and respected. I can assure you I did not feel valued or respected during our encounter. When I am a stakeholder in a private establishment (such as my position at Kowalski's) it is one-hundred percent my right to not be filmed. I asked very kindly and I appreciate your cameraman moving the shot off me and that would have been that. However you claimed that I was not in the shot and there was no video of me. I knew that wasn't the case and this is where i grew angrier.
 
-I apologize for my harsh tone but i think that it is film someone with out their consent let alone with their explicit instructions to not be on camera. 
+I apologize for my harsh tone but I think that it is film someone with out their consent let alone with their explicit instructions to not be on camera. 
 
 your reporting is important but the part where you search your live comments for insults to jointly hurl at the boy who just made a very reasonable request not to be recorded or placed on the internet, I personally could do without. I watched our whole interaction and read the live chat all through Starbucks
 
-Please do not ever enter my store with a rolling live camera again. Do not film people without their consent, and when they make the request to not be put online, honor it. Anytime you find yourself in one of our stores again, I would be delighted to help you face to face without social media. Of course you are welcome in by me and my coworkers anytime Don. 
+Please do not ever enter my store with a rolling live camera again. Do not film people without their consent, and when they make the request to not be put online, honor it. Anytime you find yourself in one of our stores again, I would be delighted to help you face to face, without social media. Of course you are welcome in by me and my coworkers anytime Don. 
 
 Thank you for your time.
 

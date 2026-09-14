@@ -10,5 +10,4 @@ permalink: /reading
 
 - **Walden** — Henry David Thoreau
 - **The Odyssey** — Homer
-- **The Hobbit** — J.R.R. Tolkien
 - **Annihilation** — Jeff VanderMeer
