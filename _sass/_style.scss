@@ -202,3 +202,51 @@ body.home img[alt="Me"] {
 body.home .content-wrapper {
   padding-top: 1rem !important;
 }
+
+// Reading page: per-book progress meter made of tick lines (each tick = 5%)
+.reading-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.25em 1em;
+    padding: 0.4em 0;
+  }
+
+  .progress {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6em;
+  }
+
+  .ticks {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 3px;
+    height: 0.9em;
+
+    i {
+      display: block;
+      width: 1px;
+      height: 100%;
+      background: $color-border;
+    }
+
+    // taller tick at every 25% for easy reading
+    i:nth-child(5n) { height: 140%; }
+
+    i.on { background: $color-text; }
+  }
+
+  .pct {
+    font-size: 0.8em;
+    color: $color-subtext;
+    font-variant-numeric: tabular-nums;
+    min-width: 3ch;
+    text-align: right;
+  }
+}
