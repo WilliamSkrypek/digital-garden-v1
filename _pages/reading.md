@@ -9,5 +9,11 @@ permalink: /reading
 *What I'm currently reading — not everything I've read.*
 
 - **Walden** — Henry David Thoreau
+■■□□□□□□□□
 - **The Odyssey** — Homer
+■■■■□□□□□□
 - **Annihilation** — Jeff VanderMeer
+■■■■■□□□□□
+- **The Handmaid's Tale** – Margret Atwood
+■■■■■■■■□□
+

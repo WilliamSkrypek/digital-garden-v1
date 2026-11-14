@@ -15,9 +15,9 @@ My part in the community may be small here but it is valued and respected. I can
 
 I apologize for my harsh tone but I think that it is film someone with out their consent let alone with their explicit instructions to not be on camera. 
 
-your reporting is important but the part where you search your live comments for insults to jointly hurl at the boy who just made a very reasonable request not to be recorded or placed on the internet, I personally could do without. I watched our whole interaction and read the live chat all through Starbucks
+Your reporting is important, but the part where you search your live comments for insults to jointly hurl at the boy who just made a very reasonable request not to be recorded or placed on the internet, I personally could do without. I watched our whole interaction and read the live chat all through Starbucks
 
-Please do not ever enter my store with a rolling live camera again. Do not film people without their consent, and when they make the request to not be put online, honor it. Anytime you find yourself in one of our stores again, I would be delighted to help you face to face, without social media. Of course you are welcome in by me and my coworkers anytime Don. 
+Please do not ever enter my store with a rolling live camera again. Do not film people without their consent, and when they make the request to not be put online, honor it. Anytime you find yourself in one of our stores again, I would be delighted to help you face to face, without social media. Of course you are welcome in by my coworkers and I anytime Don. 
 
 Thank you for your time.
 
