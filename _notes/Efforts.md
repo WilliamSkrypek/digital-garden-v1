@@ -28,6 +28,16 @@ Washburn Highschool's track and field team. I run for the Varsity Hurdles team, 
 A national club, where we explore international diplomacy, and prepare for conferences, in which you represent a country and a policy goal. I participated in the fall conference of 2024 and 2025 in which I represented India and Ethiopia respectively. I also was invited to the spring conference of 2025 as a delegate from Namibia.
 
 ---
+2026 - Present
+**National Honor Society**
+The National Honor Society gathers to do service projects, including tutoring, and other community based aid.
+
+---
+2026 - Present
+**Youth in Goverment**
+Another national club based on international law and court. Meetings throughout the year prepares us for a January conference held at the capital of Minnesota
+
+---
 2024 - Present  
 **Piano**
 I have been studying piano by myself since 2023. In addition I meet infrequently with my piano professor, Dr. Roberta Kaigin, since 2024
