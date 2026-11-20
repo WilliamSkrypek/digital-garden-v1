@@ -34,7 +34,7 @@ The National Honor Society gathers to do service projects, including tutoring, a
 
 ---
 2026 - Present
-**Youth in Goverment**
+**Youth in Government**
 Another national club based on international law and court. Meetings throughout the year prepares us for a January conference held at the capital of Minnesota
 
 ---
