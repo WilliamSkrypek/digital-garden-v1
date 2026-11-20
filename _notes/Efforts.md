@@ -55,7 +55,7 @@ The site council at Washburn is an advisory board made up of representatives fro
 ---
 2023 - Present  
 **Kowalski's Markets**  
-I am lucky to be part of the front end team at Kowalski's Markets on Lyndale. I hold various responsibilities chiefly cashiering, bagging and helping people to their car with their groceries. I also work behind the scenes assisting with miscellaneous maintenance and upkeep.
+I am lucky to be part of the front end team at Kowalski's Markets on Lyndale. I hold various responsibilities, including self checkout supervisor, cashiering, bagging and helping people to their car with their groceries. I also work behind the scenes assisting with miscellaneous maintenance and upkeep.
 
 ---
 2025 - Present  
